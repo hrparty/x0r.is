@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/hrparty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://x0r.is
+  * I am hrparty (https://keybase.io/hrparty) on keybase.
+  * I have a public key with fingerprint 27D3 E45E 5FA8 46E7 FFAA  EF13 AC54 339B 8970 29C8
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "27d3e45e5fa846e7ffaaef13ac54339b897029c8",
+            "host": "keybase.io",
+            "key_id": "AC54339B897029C8",
+            "uid": "28b286ecceb241afe7ef482225f44600",
+            "username": "hrparty"
+        },
+        "merkle_root": {
+            "ctime": 1413242054,
+            "hash": "276014b7a283efe9b2bb15cdf50bd45fd079471d0840a6e0c7a0187295c8851d0216266b270e07dfd776241f53c7c47873f73fdb5ab0308b80a9a7cea7d7da11",
+            "seqno": 78114
+        },
+        "service": {
+            "hostname": "x0r.is",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413242743,
+    "expire_in": 157680000,
+    "prev": "4abf85531f9588372890ee87341e83bd2ad3988c196927dc93938466555dc97f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFVkl1sFUUUx+9FwdpYbTBIAmpgCWmA5jqfO7NXKwLGmBjFh2psIr3MzM70Li27
+l93l2gZvDA8QaxtFRAOWoLEVSKgPpGJ46hNQiNJg0jTEjzTEmEisRDSiIVSdvdYo
+k3mYj9/5z/mfOfua7sg15kfb8VB/Zc35/OdXZa79sVLvLkdGfp9T3OWonkCHabYK
+xXbtFJ1u3SdFogtBtCKMfF3YlqyYZ1qdqo6TIAotBQqsgJxaa4ZnwSYIu3RciYNM
+y0HMx5pQTY3gxNXMGCG0gVgoSjD2JPcYQJ7iVrIcJeltrzp1zVLg29MNm+r8xn/4
+TRm/s36BuETc1UppiQgURjNtCEcIUUOIC0AGJjqet1SOKyJO+7J0t+u4u0eX4iiq
+e1ZpkBGQQIwIApTYhERSrltwASSSCcSxNtqTSEpIlW8okD6hxgfMIwz6gBMgXA0U
+EwByhjyqOKf2HEEXua5EDGjAfOMz5tpUDcWKKcI4w8ZOX1IhAQZcciA8wZQWzGe+
+gNA6SPSOMHKKjENIatk2rgZKZ2lnRZv31gviQpBYuhJHaaSinsxvmlaKmdu0r5Ix
+r2hZmo8ufSyD0Lef9f/fhBa9vRKM4FZH91aCWJeCjKDM5cCO7B1dtZpESMMpxdB4
+lHPMEPeA1tYWgZpj6SPhY49zBT3Xs+2gPOxh2wsupdRumPnPn615KrqsZBJ0hSLd
+GWun1p9/8M5cvjG3aOGCrF1zjXc3/9vDr/5419wD695QQ01g3allv+5Z3z5xoGfm
+qWvJiVXlpw/sfX6q5chzAy2Dj755ce7+D/dd/mrxl999c3JLTcFjT1x7suXZasc9
+bcP3TTfV2PE/1rx0aMng7OrZpb2zl04tH7g00/DCstpfh1bNNuyfHly+tbiyfCNf
+2tA8OXfu0yWnD47MrC0oc3ph62+Xb47ceG1qaPXrncO7Pzr6yI6t47XfD8/smewY
+XTDa+cWfZ6fOk8Mtn92a7u8fOLGb/fRW20Ph9Yc7jkx+sP6XkRcv3Lr369jtvl6+
+erO66O3mph/GxePbVg7OdSYv7z0jn9kYHJxoWPtO25XOk982Lr2yeezCu9+/f/Ti
+cPPihv1j42MTmz+pvPfz3w==
+=7caE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hrparty
+
+==================================================================
