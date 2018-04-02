@@ -217,9 +217,11 @@ th {
    ============================ */
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
-  background: #fff;
+  font: 16px/24px 'Open Sans', sans-serif;
   color: #333;
+  background: #fff;
   margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
 }
